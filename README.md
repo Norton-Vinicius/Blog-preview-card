@@ -5,7 +5,6 @@ This is a solution to the [Blog preview card challenge on Frontend Mentor](https
 ## Table of contents
 
 - [Overview](#overview)
-- [Screenshot](#screenshot)
 - [My process](#my-process)
 - [Built with](#Built-with)
 - [Continued development](#continued-development)
@@ -13,13 +12,6 @@ This is a solution to the [Blog preview card challenge on Frontend Mentor](https
 
 ## Overview
 My solution for the frontend mentor exercise.
-
-
-### Screenshot
-
-![](./Captura de tela 2025-05-01 180712.png)
-
-Here is a screenshot of the solution I was able to achieve.
 
 
 ## My process
