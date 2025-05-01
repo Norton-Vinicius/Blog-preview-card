@@ -17,7 +17,7 @@ My solution for the frontend mentor exercise.
 
 ### Screenshot
 
-![](./solution.png)
+![](./Captura de tela 2025-05-01 180712.png)
 
 Here is a screenshot of the solution I was able to achieve.
 
